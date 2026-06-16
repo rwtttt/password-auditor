@@ -19,3 +19,6 @@ Nothing leaves your machine.
 
 ## Requirements
 Python 3. No external libraries needed.
+## Preview
+![Report output](screenshot.png)
+![Report output](screenshot2.png)
